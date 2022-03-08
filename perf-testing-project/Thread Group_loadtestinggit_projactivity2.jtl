@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1646282221452,579,POST Request,201,Created,Thread Group_loadtestinggit_projactivity2 1-1,text,true,,1994,657,1,1,https://api.github.com/user/keys,579,0,111
+1646282222032,306,Get Request,200,OK,Thread Group_loadtestinggit_projactivity2 1-1,text,true,,1999,198,1,1,https://api.github.com/user/keys/63244196,306,0,0
+1646282222338,313,DEL Request,204,No Content,Thread Group_loadtestinggit_projactivity2 1-1,,true,,1142,284,1,1,https://api.github.com/user/keys/63244196,0,0,0
